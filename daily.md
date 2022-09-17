@@ -6,7 +6,7 @@
 - ~~Http request~~
 - ~~reduce splain train~~
 - ~~30 days of javascript hof~~
-- useReducer
+- ~~useReducer~~
 - useCallback
 - http request(kent)
 
