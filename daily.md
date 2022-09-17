@@ -2,8 +2,8 @@
 
 ## Revision
 
-- Authentication
-- Http request
+- ~~Authentication~~
+- ~~Http request~~
 - reduce splain train
 - 30 days of javascript hof
 - useReducer
@@ -12,6 +12,8 @@
 
 ## Bookshelf
 
+- Handle URL redirects
+- Add useMatch to highligh the active nav item
 - Create listitem with react query useMutation
 - View Listitems with react query useQuery
 - Remove ListItems with useMutations.
@@ -29,3 +31,5 @@
 - Create and remove custom hook.
 - Wrap app in reactQueryConfigProvider.
 - show Erro when request fails.
+
+## Aftermath
