@@ -8,6 +8,7 @@
 - ~~30 days of javascript hof~~
 - ~~useReducer~~
 - ~~useCallback~~
+- ~~Routing~~
 - http request(kent)
 
 ## Bookshelf
