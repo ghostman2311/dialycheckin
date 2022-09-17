@@ -5,7 +5,7 @@
 - ~~Authentication~~
 - ~~Http request~~
 - ~~reduce splain train~~
-- 30 days of javascript hof
+- ~~30 days of javascript hof~~
 - useReducer
 - useCallback
 - http request(kent)
