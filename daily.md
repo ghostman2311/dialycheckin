@@ -7,7 +7,7 @@
 - ~~reduce splain train~~
 - ~~30 days of javascript hof~~
 - ~~useReducer~~
-- useCallback
+- ~~useCallback~~
 - http request(kent)
 
 ## Bookshelf
