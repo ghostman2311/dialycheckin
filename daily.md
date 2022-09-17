@@ -4,7 +4,7 @@
 
 - ~~Authentication~~
 - ~~Http request~~
-- reduce splain train
+- ~~reduce splain train~~
 - 30 days of javascript hof
 - useReducer
 - useCallback
