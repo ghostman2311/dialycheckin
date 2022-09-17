@@ -9,12 +9,12 @@
 - ~~useReducer~~
 - ~~useCallback~~
 - ~~Routing~~
-- http request(kent)
+- http request(kent) (Note Swapped with routing)
 
 ## Bookshelf
 
-- Handle URL redirects
-- Add useMatch to highligh the active nav item
+- ~~Handle URL redirects~~
+- ~~Add useMatch to highligh the active nav item~~
 - Create listitem with react query useMutation
 - View Listitems with react query useQuery
 - Remove ListItems with useMutations.
