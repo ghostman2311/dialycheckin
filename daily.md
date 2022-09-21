@@ -87,9 +87,14 @@ Revision has taken much of my time today but I am happy with the result. Studied
 
 ## Bookshelf
 
-- Create listItems custom hook.
-- Reuse mutation logic in a custom.
+- ~~Create listItems custom hook.~~
+- ~~Reuse mutation logic in a custom.~~
 - Reuse custom hooks to reduce code.
 - Create and remove custom hook.
 - Wrap app in reactQueryConfigProvider.
 - show Error when request fails.
+
+## Time sheet
+
+1. 6:30 am
+2. 9:00 pm
