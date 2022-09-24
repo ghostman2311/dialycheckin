@@ -105,3 +105,9 @@ Revision has taken much of my time today but I am happy with the result. Studied
 
 - 7:00(30 min)
 - 7:40 (30 min)
+
+# 24 September
+
+## Time Sheet
+
+- 10:01(Making plans)
