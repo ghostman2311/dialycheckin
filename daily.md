@@ -111,3 +111,25 @@ Revision has taken much of my time today but I am happy with the result. Studied
 ## Time Sheet
 
 - 10:01(Making plans)
+
+# 25 September
+
+## Revision
+
+- Cache Management
+- Routing
+- splain reduce
+- 30 days of js
+- Authentication
+- Http requests
+- useCallback and useReducer
+- render react app
+- add styles to the app
+
+## Bookshelf
+
+- Cache management complete
+
+## Interview Cake
+
+- Merging Meeting Times
