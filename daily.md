@@ -143,4 +143,10 @@ Revision has taken much of my time today but I am happy with the result. Studied
 
 - First Session
   -- 2 pomo(3:00pm - 3:30pm)
+
   1. Cache Management(rating, bookscreen, discover screen, bookrow, notes)
+
+- First Session
+  -- 3 pomo(3:00pm - 3:55pm)
+
+1. Cache Management(useBookSearch, useBook, useListItems, useListItem)
