@@ -140,3 +140,7 @@ Revision has taken much of my time today but I am happy with the result. Studied
   -- 1 pomo (2:20-2:51)
 
 1. Cache Management(create, fetch, update, delete mutation in statusButton)
+
+- First Session
+  -- 2 pomo(3:00pm - 3:30pm)
+  1. Cache Management(rating, bookscreen, discover screen, bookrow, notes)
