@@ -114,7 +114,7 @@ Revision has taken much of my time today but I am happy with the result. Studied
 
 # 25 September
 
-## Revision
+## Revision(Sunday)
 
 - Cache Management
 - Routing
@@ -133,3 +133,10 @@ Revision has taken much of my time today but I am happy with the result. Studied
 ## Interview Cake
 
 - Merging Meeting Times
+
+## Timesheet
+
+- First Session
+  -- 1 pomo (2:20-2:51)
+
+1. Cache Management(create, fetch, update, delete mutation in statusButton)
