@@ -154,6 +154,7 @@ Revision has taken much of my time today but I am happy with the result. Studied
 # 26 Septemeber(Monday)
 
 ## Revision
+
 - Routing
 - splain reduce
 - 30 days of js
@@ -168,8 +169,10 @@ Revision has taken much of my time today but I am happy with the result. Studied
 - Cache management complete
 
 ## Timesheet
-- Routing
 
+- ~~Routing~~
+- Cache Mutation complete rev
 
+### Watch later list while session
 
-
+1. Javascript 400+ excercise
