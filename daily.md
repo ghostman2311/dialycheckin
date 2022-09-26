@@ -150,3 +150,26 @@ Revision has taken much of my time today but I am happy with the result. Studied
   -- 3 pomo(3:00pm - 3:55pm)
 
 1. Cache Management(useBookSearch, useBook, useListItems, useListItem)
+
+# 26 Septemeber(Monday)
+
+## Revision
+- Routing
+- splain reduce
+- 30 days of js
+- Authentication
+- Http requests
+- useCallback and useReducer
+- render react app
+- add styles to the app
+
+## Bookshelf
+
+- Cache management complete
+
+## Timesheet
+- Routing
+
+
+
+
