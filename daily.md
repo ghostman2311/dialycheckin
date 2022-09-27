@@ -184,7 +184,7 @@ Revision has taken much of my time today but I am happy with the result. Studied
 1. ~~Create and Remove Custom Hook.~~
 2. ~~Wrap App in ReactQueryConfigProvider.~~
 3. ~~Show Error when request fails~~
-4. React query custom error handling.
+4. ~~React query custom error handling.~~
 5. ~~Add a loading spinner for the notes~~
 6. Prefetch the book search query.
 7. Add books to the query cache.
