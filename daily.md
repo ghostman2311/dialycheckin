@@ -196,3 +196,22 @@ Revision has taken much of my time today but I am happy with the result. Studied
 2. Extra Credit of routing.
 3. useCallback and useReducer.
 4. Cache mutation.
+
+
+# 28 September (Wednesday)
+
+## Revision
+1. Create and Remove Custom Hook.
+2. Wrap App in ReactQueryConfigProvider.
+3. Show Error when request fails
+4. React query custom error handling.
+5. Add a loading spinner for the notes
+6. Http request with error boundary.
+7. Extra Credit of routing.
+8. useCallback and useReducer.
+9. Cache mutation.
+
+## Cache Management
+1. Prefetch the book search query.
+2. Add books to the query cache.
+3. Add Optimistic Updates and Recovery.
