@@ -213,6 +213,32 @@ Revision has taken much of my time today but I am happy with the result. Studied
 
 ## Cache Management
 
-1. Prefetch the book search query.
-2. Add books to the query cache.
+1. ~~Prefetch the book search query.~~
+2. ~~Add books to the query cache.~~
 3. Add Optimistic Updates and Recovery.
+
+## Time Sheet
+
+- Main: 30 min + 10 min
+- Seondary: 10 min + 10 min
+
+## Problems
+
+- Wasted time while watching videos on youtube in break.
+
+# 29 September(Thursday)
+
+## Cache Management
+
+1. Add optimistic updates and Recovery(MP)
+
+## Context
+
+1. Context workshop(LP)
+
+## Revision
+
+1. Http request with error boundary.(HP)
+2. Extra Credit of routing.(MP)
+3. useCallback and useReducer.(MP)
+4. Cache mutation.(MP)
