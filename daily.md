@@ -247,4 +247,23 @@ Revision has taken much of my time today but I am happy with the result. Studied
 
 ## Timesheet
 
-- Main: 30 min |
+- Main: 30 min | 15 min
+- Secondary:
+
+# 30 September(Friday)
+
+## Revision
+
+1. Add optimistic updates and Recovery(MP)
+2. Http request with error boundary.(HP)
+3. Extra Credit of routing.(MP)
+4. useCallback and useReducer.(MP)
+5. Cache mutation.(MP)
+6. Wrap App in ReactQueryConfigProvider.
+7. Show Error when request fails
+8. React query custom error handling.
+9. Add a loading spinner for the notes
+
+## Context
+
+1. Context workshop(LP)
