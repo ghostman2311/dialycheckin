@@ -230,7 +230,7 @@ Revision has taken much of my time today but I am happy with the result. Studied
 
 ## Cache Management
 
-1. Add optimistic updates and Recovery(MP)
+1. ~~Add optimistic updates and Recovery(MP)~~
 
 ## Context
 
@@ -244,3 +244,7 @@ Revision has taken much of my time today but I am happy with the result. Studied
 4. Extra Credit of routing.(MP)
 5. useCallback and useReducer.(MP)
 6. Cache mutation.(MP)
+
+## Timesheet
+
+- Main: 30 min |
