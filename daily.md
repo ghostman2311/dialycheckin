@@ -238,7 +238,9 @@ Revision has taken much of my time today but I am happy with the result. Studied
 
 ## Revision
 
-1. Http request with error boundary.(HP)
-2. Extra Credit of routing.(MP)
-3. useCallback and useReducer.(MP)
-4. Cache mutation.(MP)
+1. ~~Prefetch the book search query.~~
+2. ~~Add books to the query cache.~~
+3. Http request with error boundary.(HP)
+4. Extra Credit of routing.(MP)
+5. useCallback and useReducer.(MP)
+6. Cache mutation.(MP)
