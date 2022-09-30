@@ -7,7 +7,7 @@
 5. ~~Add a loading spinner for the notes~~
 6. ~~Prefetch the book search query.~~
 7. ~~Add books to the query cache.~~
-8. Add Optimistic Updates and Recovery.
+8. ~~Add Optimistic Updates and Recovery.~~
 
 ## Context
 

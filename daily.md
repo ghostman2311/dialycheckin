@@ -255,7 +255,7 @@ Revision has taken much of my time today but I am happy with the result. Studied
 ## Revision
 
 1. Add optimistic updates and Recovery(MP)
-2. Http request with error boundary.(HP)
+2. ~~Http request with error boundary.(HP)~~
 3. Extra Credit of routing.(MP)
 4. useCallback and useReducer.(MP)
 5. Cache mutation.(MP)
@@ -267,3 +267,8 @@ Revision has taken much of my time today but I am happy with the result. Studied
 ## Context
 
 1. Context workshop(LP)
+
+## Timesheet
+
+- Main: 30 min | 20 min
+- Secondary:
