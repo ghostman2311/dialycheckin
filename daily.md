@@ -266,7 +266,7 @@ Revision has taken much of my time today but I am happy with the result. Studied
 
 ## Context
 
-1. Context workshop(LP)
+1. ~~Context workshop(LP)~~
 
 ## Timesheet
 
