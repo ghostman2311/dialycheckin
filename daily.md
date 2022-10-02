@@ -21,6 +21,8 @@
 ## React patterns
 
 1. ~~Context module functions~~
+2. ~~Compound Components~~
+3. Flexible Compound Components
 
 ## Compound Components
 
@@ -32,9 +34,5 @@
 
 1. Improve the time to First Meaningful paint.
 2. Prefetch the Authenticated App.
-3. Memoize Context.
-4. Custom React.Profiler to Monitor App.
-5. Add MetaData and Profile Book Screen.
-6. List Item List and Discover screen list.
 
 ## Timesheet
