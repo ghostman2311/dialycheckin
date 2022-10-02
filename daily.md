@@ -18,6 +18,10 @@
 7. ~~Colocate Global Providers.~~
 8. ~~Create a useClient Hook.~~
 
+## React patterns
+
+1. ~~Context module functions~~
+
 ## Compound Components
 
 1. Create a Compound Component for a Flexible Modal
@@ -32,6 +36,5 @@
 4. Custom React.Profiler to Monitor App.
 5. Add MetaData and Profile Book Screen.
 6. List Item List and Discover screen list.
-7. Add Profiling to Production Builds
 
 ## Timesheet
