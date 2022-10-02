@@ -15,8 +15,8 @@
 4. ~~Expose User Context Value to refetchBookSearchQuery.~~
 5. ~~Create a useAuth Hook.~~
 6. ~~Create an AuthProvider Component.~~
-7. Colocate Global Providers.
-8. Create a useClient Hook.
+7. ~~Colocate Global Providers.~~
+8. ~~Create a useClient Hook.~~
 
 ## Compound Components
 
