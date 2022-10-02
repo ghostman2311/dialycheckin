@@ -9,7 +9,7 @@
 
 ## Context
 
-1. Create and Provide an AuthContext.
+1. ~~Create and Provide an AuthContext.~~
 2. Grab a value from Context in a hook.
 3. Use Context Value in ListItem hooks and Authenticated App.
 4. Expose User Context Value to refetchBookSearchQuery.
