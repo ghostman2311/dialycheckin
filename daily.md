@@ -3,6 +3,13 @@
 ## Revision
 
 1. Whole Cache Management
+
+- ~~Create ListItems with React query~~
+- ~~View ListItems with useQuery.~~
+- ~~Remove ListItems with useMutation.~~
+- ~~Update listItems with useMutation.~~
+- ~~useBook and useBookSearch Hooks~~
+
 2. React context
 3. http request.
 4. usecallback
@@ -36,3 +43,23 @@
 2. Prefetch the Authenticated App.
 
 ## Timesheet
+
+# 3 October(Monday)
+
+## Revision
+
+0. useContext bookshelf
+1. Http Requests
+2. useCallback
+3. useContext
+4. cache management
+
+## patterns
+
+1. Flexible compound components
+
+## Compound Components
+
+1. Create a Compound Component for a Flexible Modal
+2. Add callAll
+3. Create ModalContentsBase

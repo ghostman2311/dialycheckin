@@ -11,14 +11,14 @@
 
 ## Context
 
-1. Create and Provide an AuthContext.
-2. Grab a value from Context in a hook.
-3. Use Context Value in ListItem hooks and Authenticated App.
-4. Expose User Context Value to refetchBookSearchQuery.
-5. Create a useAuth Hook.
-6. Create an AuthProvider Component.
-7. Colocate Global Providers.
-8. Create a useClient Hook.
+1. ~~Create and Provide an AuthContext.~~
+2. ~~Grab a value from Context in a hook.~~
+3. ~~Use Context Value in ListItem hooks and Authenticated App.~~
+4. ~~Expose User Context Value to refetchBookSearchQuery.~~
+5. ~~Create a useAuth Hook.~~
+6. ~~Create an AuthProvider Component.~~
+7. ~~Colocate Global Providers.~~
+8. ~~Create a useClient Hook.~~
 
 ## Compound Components
 
