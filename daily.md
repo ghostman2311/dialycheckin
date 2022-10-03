@@ -63,3 +63,27 @@
 1. Create a Compound Component for a Flexible Modal
 2. Add callAll
 3. Create ModalContentsBase
+
+## Timesheet
+
+- Main: 30 min
+
+# 4 October(Tuesday)
+
+## Revision
+
+1. cache management(must complete) (High Priority)
+2. useContext bookshelf
+3. Http Requests
+4. useCallback
+5. useContext
+
+## patterns
+
+1. Flexible compound components
+
+## Compound Components
+
+1. Create a Compound Component for a Flexible Modal
+2. Add callAll
+3. Create ModalContentsBase
