@@ -1,3 +1,5 @@
+# Week 1 (25 Sep - 2 oct )
+
 ## Cache Management
 
 1. ~~Create and Remove Custom Hook.~~
@@ -20,6 +22,29 @@
 7. ~~Colocate Global Providers.~~
 8. ~~Create a useClient Hook.~~
 
+## React Patterns
+
+1. ~~Context Module Function~~
+2. ~~Compound Components~~
+
+## Advanced React hooks
+
+1. ~~useContext~~
+
+## Compound Components
+
+1. Create a Compound Component for a Flexible Modal
+2. Add callAll
+3. Create ModalContentsBase
+
+## Performance
+
+1. Improve the time to First Meaningful paint.
+2. Prefetch the Authenticated App.
+3. Memoize Context.
+
+# Week 2(3 oct - 9 Oct)
+
 ## Compound Components
 
 1. Create a Compound Component for a Flexible Modal
@@ -36,10 +61,8 @@
 6. List Item List and Discover screen list.
 7. Add Profiling to Production Builds
 
-## Interview Cake
+## Render as you fetch
 
-1. Merge Meeting Times.
-2. Reverse String in place.
-3. Reverse Words.
-4. Merge Sorted Arrays.
-5. Cafe Order Checker.
+1. Intro
+2. Fetch User before AuthProvider Mounts
+3. Preload all initial data
