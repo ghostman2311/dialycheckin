@@ -66,3 +66,51 @@
 1. Intro
 2. Fetch User before AuthProvider Mounts
 3. Preload all initial data
+
+# Week 3(9 oct - 16 Oct)
+
+## Compound Components
+
+1. Create a Compound Component for a Flexible Modal
+2. Add callAll
+3. Create ModalContentsBase
+
+## Performance
+
+1. Improve the time to First Meaningful paint.
+2. Prefetch the Authenticated App.
+3. Memoize Context.
+4. Custom React.Profiler to Monitor App.
+5. Add MetaData and Profile Book Screen.
+6. List Item List and Discover screen list.
+7. Add Profiling to Production Builds
+
+## Array and Strings
+
+1. Traversing Array in Reverse(Using ESTCV Approach)
+2. Traverse from Both Ends.
+3. Partioning Arrays
+
+## Subarray Problems
+
+1. Kadane's Algo
+2. Sliding Window using two pointers
+3. Prefix Sum
+
+## Implementing In-Browser Bundling
+
+1. A demo App
+2. Project setup
+3. Basic Form Elements
+4. Understanding ES build
+5. Intializing ES Build
+6. Using Refs for arbitrary values
+7. Transpiling works
+8. Troubles with bundling in the browser
+9. Issues with npm
+10. Solution with unpkg.
+11. Demo ESBuild Plugin
+12. ESBuild can bundle
+13. Deep Dive on Bundling
+14. Filters and namespaces.
+15. Adding a tiny test package.

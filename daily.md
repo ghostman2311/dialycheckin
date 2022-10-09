@@ -92,12 +92,10 @@
 
 ## Revision
 
-1. cache management(must complete) (High Priority)
-2. useContext bookshelf
-3. Flexible compound components
-4. Create a Compound Component for a Flexible Modal
-5. Add callAll
-6. Create ModalContentsBase
+1. ~~cache management(must complete) (High Priority)~~
+2. useContext workshop
+3. useContext bookshelf
+4. Flexible compound components
 
 ## Timesheet
 

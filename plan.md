@@ -9,27 +9,27 @@
 # Learning Materials
 
 - Kent C Dods bookshelf, Refer any concept video which is not cleared on Youtube
-- Interview Cake.
+- Interview Camp.
 
 # Estimate Time Required to achieve Goal
 
-- Interview Cake (Almost 50 questions)which can take upto 60 days.
-- Bookshelf: (Cache Management, Context, Compound Components, Performance, Render as you fetch, Unit Testing, Testing Hooks and Components, Integration Testing and E2E Testing)(4.40 hours of content)(Must be Completed before 10 October 22 )
+- Interview Camp which can take upto 60 days.
+- Bookshelf: (Cache Management, Context, Compound Components, Performance, Render as you fetch, Unit Testing, Testing Hooks and Components, Integration Testing and E2E Testing)(4.40 hours of content)
 
 # Set Deadlines and Milestones
 
-- Finish revision tomorrow before starting a new topic(25 Sep)
-- Context, Compound Components and Performance(3 october)
-- All revision completed (6 october)
-- Finish Bookshelf(9 october)
+- Compound Components, Performance and (Array and strings), Subarray Problems---(16 Oct)
 
 # Week by week progress
 
-- Week 1: Finish revision, Context, Compound Components and Performance.
+- Week 1: Compound Components,Performance, Array and Strings, Subarray Problems.
 - Week 2: Render as you fetch, Unit Testing, Testing Hooks and Components, Integration Testing and E2E Testing and all the previous revision.
 
 # General Note
 
-- 12:00 am to 6:30 am(6:30 hours sleep atleast) on weekends it can be 8 hours
-- Study session(Morning): 7:00 am to 8:00 am and 9:30pm to 11:00pm and half hour for upwork (on weekdays)
-- Study session(Weekends): 8:30am to 10:30am and 11:30 to 1:30 and 3:30 to 5:30
+- 1:00 am to 7:30 am(6:30 hours sleep atleast) on weekends it can be 8 hours
+- Study session: 9:30pm to 11:50 pm(~2:20 hrs)
+
+# 9 October
+
+1. Today this project has to be completed but I am late I did not even complete Week 1 content. Please follow the deadlines from now on.
