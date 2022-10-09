@@ -69,6 +69,11 @@
 
 # Week 3(9 oct - 16 Oct)
 
+## Flexible Compound Components
+
+1. Extract state into context
+2. Custom hook validation
+
 ## Compound Components
 
 1. Create a Compound Component for a Flexible Modal
@@ -82,8 +87,6 @@
 3. Memoize Context.
 4. Custom React.Profiler to Monitor App.
 5. Add MetaData and Profile Book Screen.
-6. List Item List and Discover screen list.
-7. Add Profiling to Production Builds
 
 ## Array and Strings
 

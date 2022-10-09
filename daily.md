@@ -111,3 +111,28 @@
    2. ~~useContext complete(30min)~~
 
 - Total: 3 hour(30min sprint)
+
+# 10 October(Monday)
+
+## Flexible Compound Components
+
+1. Extract state into context
+2. Custom hook validation
+
+## Compound Components
+
+1. Create a Compound Component for a Flexible Modal
+2. Add callAll
+3. Create ModalContentsBase
+
+## Array and Strings
+
+1. Traversing Array in Reverse(Using ESTCV Approach)
+
+## Revision
+
+1. Context module function
+2. Compound components
+3. Cache management
+4. useCallback
+5. http requests
