@@ -93,14 +93,19 @@
 ## Revision
 
 1. ~~cache management(must complete) (High Priority)~~
-2. useContext workshop
+2. ~~useContext workshop~~
 3. useContext bookshelf
 4. Flexible compound components
 
 ## Timesheet
 
 1. ~~Cache Management(30min + 30min; 30min + 30min )~~
+
    1. ~~Created useQuery Hooks(30min)~~
    2. ~~useMutation Hooks + React query ConfigProvider + Handle mutation errors properly(30 min)~~
    3. ~~**_Custom Mutation Errors_** + Spinner on Notes + **_Prefetch the Book search query_** (30 min)~~
    4. ~~**_Adding books to the query Cache_** + **_Add optimistic updates and recovery_**(30min)~~
+
+2. useContext(30min + )
+   1. ~~useContext workshop + Replacing user with useContext (30 min)~~
+   2.
