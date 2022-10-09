@@ -101,6 +101,6 @@
 
 ## Timesheet
 
-1. Cache Management(30min)
+1. Cache Management(30min + 30min)
    1. ~~Created useQuery Hooks(30min)~~
-   2. useMutation Hooks()
+   2. ~~useMutation Hooks + React query ConfigProvider + Handle mutation errors properly(30 min)~~
