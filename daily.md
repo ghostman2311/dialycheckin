@@ -101,6 +101,7 @@
 
 ## Timesheet
 
-1. Cache Management(30min + 30min)
+1. Cache Management(30min + 30min; )
    1. ~~Created useQuery Hooks(30min)~~
    2. ~~useMutation Hooks + React query ConfigProvider + Handle mutation errors properly(30 min)~~
+   3. **_Custom Mutation Errors_** + Spinner on Notes + **_Prefetch the Book search query_** (30 min)
