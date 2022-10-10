@@ -127,7 +127,7 @@
 
 ## Array and Strings
 
-1. Traversing Array in Reverse(Using ESTCV Approach)
+1. ~~Traversing Array in Reverse(Using ESTCV Approach)~~
 
 ## Revision
 
@@ -142,3 +142,4 @@
 1. Revision + Flexible Compound components (30min + 30min)
    1. Context module function + compound components(30 min)
    2. compound components + flexible compound components(30 min)
+2. Interview camp (10min)
