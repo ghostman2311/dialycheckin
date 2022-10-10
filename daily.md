@@ -116,8 +116,8 @@
 
 ## Flexible Compound Components
 
-1. Extract state into context
-2. Custom hook validation
+1. ~~Extract state into context~~
+2. ~~Custom hook validation~~
 
 ## Compound Components
 
@@ -132,13 +132,13 @@
 ## Revision
 
 1. ~~Context module function~~
-2. Compound components
+2. ~~Compound components~~
 3. Cache management
 4. useCallback
 5. http requests
 
 ## Timesheet
 
-1. Revision(30min + 30min)
+1. Revision + Flexible Compound components (30min + 30min)
    1. Context module function + compound components(30 min)
-   2. compound components
+   2. compound components + flexible compound components(30 min)
