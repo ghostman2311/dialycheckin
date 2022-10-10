@@ -131,8 +131,14 @@
 
 ## Revision
 
-1. Context module function
+1. ~~Context module function~~
 2. Compound components
 3. Cache management
 4. useCallback
 5. http requests
+
+## Timesheet
+
+1. Revision(30min + 30min)
+   1. Context module function + compound components(30 min)
+   2. compound components
