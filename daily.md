@@ -143,3 +143,23 @@
    1. Context module function + compound components(30 min)
    2. compound components + flexible compound components(30 min)
 2. Interview camp (10min)
+
+# 11 October(Tuesday)
+
+## Compound Components
+
+1. Create a Compound Component for a Flexible Modal
+2. Add callAll
+3. Create ModalContentsBase
+
+## Array and Strings
+
+1. Traversing Array in Reverse(Using ESTCV Approach)
+
+## Revision
+
+1. Flexible Compound Components
+2. useCallback
+3. http requests
+4. Context module function
+5. Compound components
