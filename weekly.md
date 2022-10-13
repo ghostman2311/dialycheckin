@@ -71,8 +71,8 @@
 
 ## Flexible Compound Components
 
-1. Extract state into context
-2. Custom hook validation
+1. ~~Extract state into context~~
+2. ~~Custom hook validation~~
 
 ## Compound Components
 

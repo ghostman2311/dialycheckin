@@ -163,3 +163,33 @@
 3. http requests
 4. Context module function
 5. Compound components
+
+
+# 11 October(Tuesday)
+
+## Office
+1. React table
+   1. ~~Basic~~
+   2. ~~Footer~~
+   3. ~~sorting~~
+2. Leetcode
+   1. ~~Pivot index~~
+   2. ~~Running sum of 1d array~~
+
+## Compound Components
+
+1. Create a Compound Component for a Flexible Modal
+2. Add callAll
+3. Create ModalContentsBase
+
+## Array and Strings
+
+1. Traversing Array in Reverse(Using ESTCV Approach)
+
+## Revision
+
+1. Flexible Compound Components
+2. useCallback
+3. http requests
+4. Context module function
+5. Compound components
