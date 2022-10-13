@@ -76,17 +76,23 @@
 
 ## Compound Components
 
-1. Create a Compound Component for a Flexible Modal
-2. Add callAll
+1. ~~Create a Compound Component for a Flexible Modal~~
+2. ~~Add callAll~~
 3. Create ModalContentsBase
+
+## Performance Workshop
+
+1. Code Splitting
+2. useMemo for expensive calculations
+3. React.memo for reducing re-renders.
+4. Window large lists with react-virtual
+5. Optimize context value.
+6. Fix perf death by a thousand cuts.
+7. Production Performance Monitoring
 
 ## Performance
 
 1. Improve the time to First Meaningful paint.
-2. Prefetch the Authenticated App.
-3. Memoize Context.
-4. Custom React.Profiler to Monitor App.
-5. Add MetaData and Profile Book Screen.
 
 ## Array and Strings
 

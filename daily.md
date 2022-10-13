@@ -164,10 +164,10 @@
 4. Context module function
 5. Compound components
 
-
-# 11 October(Tuesday)
+# 13 October(Thursday)
 
 ## Office
+
 1. React table
    1. ~~Basic~~
    2. ~~Footer~~
@@ -178,8 +178,8 @@
 
 ## Compound Components
 
-1. Create a Compound Component for a Flexible Modal
-2. Add callAll
+1. ~~Create a Compound Component for a Flexible Modal~~
+2. ~~Add callAll~~
 3. Create ModalContentsBase
 
 ## Array and Strings
@@ -188,8 +188,32 @@
 
 ## Revision
 
-1. Flexible Compound Components
+1. ~~Flexible Compound Components~~
 2. useCallback
 3. http requests
-4. Context module function
-5. Compound components
+4. ~~Context module function~~
+5. ~~Compound components~~
+
+# 14 October(Friday)
+
+## Compound Components
+
+1. Create ModalContentsBase
+
+## Performance Workshop
+
+1. Code Splitting
+2. useMemo for expensive calculations
+3. React.memo for reducing re-renders
+
+## Array and Strings
+
+1. Traverse from Both Ends.
+
+## Revision
+
+1. Compound components bookshelf
+2. useCallback
+3. http requests
+4. React table till sorting and pivot index
+5. ESTCV approach in reverse
