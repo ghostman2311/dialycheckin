@@ -217,3 +217,43 @@
 3. http requests
 4. React table till sorting and pivot index
 5. ESTCV approach in reverse
+
+# 15 October(Saturday)
+
+## Compound Components
+
+1. ~~Create ModalContentsBase~~
+
+## Performance Workshop
+
+1. Code Splitting
+   1. Code Split
+   2. Eager Loading
+   3. Webpack magic comments
+   4. Suspense position
+   5. Coverage tool
+2. useMemo for expensive calculations
+   1. Wrap a function in useMemo
+   2. Production mode
+   3. getItems web worker
+3. React.memo for reducing re-renders
+   1. Memoize components
+   2. Custom comparator
+   3. Primitive value
+
+## Array and Strings
+
+1. Traverse from Both Ends.
+
+## Revision
+
+1. Compound components bookshelf
+2. useCallback
+3. http requests
+4. React table till sorting and pivot index
+5. ESTCV approach in reverse
+
+## Timesheet
+
+1. Code Splitting
+   1. code split
