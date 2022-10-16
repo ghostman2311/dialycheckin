@@ -227,11 +227,11 @@
 ## Performance Workshop
 
 1. Code Splitting
-   1. Code Split
-   2. Eager Loading
-   3. Webpack magic comments
-   4. Suspense position
-   5. Coverage tool
+   1. ~~Code Split~~
+   2. ~~Eager Loading~~
+   3. ~~Webpack magic comments~~
+   4. ~~Suspense position~~
+   5. ~~Coverage tool~~
 2. useMemo for expensive calculations
    1. Wrap a function in useMemo
    2. Production mode
@@ -253,7 +253,84 @@
 4. React table till sorting and pivot index
 5. ESTCV approach in reverse
 
+## Timesheet(30min + )
+
+- Total(30min + )
+
+1. Code Splitting(30min)
+
+   1. ~~code split~~
+   2. ~~Eager Loading~~
+   3. ~~webpack magic comments~~
+
+2. useMemo for expensive calculations
+   1. ~~Wrap a function in useMemo~~
+   2. ~~Production mode~~
+   3. ~~getItems web worker~~
+3. React.memo for reducing re-renders
+   1. ~~Memoize components~~
+   2. Custom comparator
+   3. Primitive value
+
+# 16 October(Sunday)
+
+## Performance Workshop
+
+1. React.memo for reducing re-renders.
+   1. ~~Memoize components~~
+   2. Custom comparator
+   3. Primitive value
+2. Window large lists with react-virtual
+3. Optimize context value.
+   1. Separate the contexts
+4. Fix perf death by a thousand cuts.
+   1. separate contexts
+   2. limit the work consuming components do
+   3. write an hoc to get a slice of app state
+   4. use recoil
+5. Production Performance Monitoring
+   1. use the experimental trace api(optional)
+
+## Performance
+
+1. Improve the time to First Meaningful paint.
+
+## Array and Strings
+
+1. Traverse from Both Ends.
+2. Partioning Arrays
+
+## Subarray Problems
+
+1. Kadane's Algo
+2. Sliding Window using two pointers
+3. Prefix Sum
+
+## Implementing In-Browser Bundling
+
+1. A demo App
+2. Project setup
+3. Basic Form Elements
+4. Understanding ES build
+5. Intializing ES Build
+6. Using Refs for arbitrary values
+7. Transpiling works
+8. Troubles with bundling in the browser
+9. Issues with npm
+10. Solution with unpkg.
+11. Demo ESBuild Plugin
+12. ESBuild can bundle
+13. Deep Dive on Bundling
+14. Filters and namespaces.
+15. Adding a tiny test package.
+
 ## Timesheet
 
-1. Code Splitting
-   1. code split
+- Total()
+
+1. First milestone for today
+   1. React.memo for reducing re-renders.
+      1. ~~Memoize components~~
+      2. Custom comparator
+      3. Primitive value
+   2. Window large lists with react-virtual

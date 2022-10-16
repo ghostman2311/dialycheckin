@@ -78,12 +78,12 @@
 
 1. ~~Create a Compound Component for a Flexible Modal~~
 2. ~~Add callAll~~
-3. Create ModalContentsBase
+3. ~~Create ModalContentsBase~~
 
 ## Performance Workshop
 
-1. Code Splitting
-2. useMemo for expensive calculations
+1. ~~Code Splitting~~
+2. ~~useMemo for expensive calculations~~
 3. React.memo for reducing re-renders.
 4. Window large lists with react-virtual
 5. Optimize context value.
