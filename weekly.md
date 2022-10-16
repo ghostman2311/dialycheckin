@@ -96,9 +96,9 @@
 
 ## Array and Strings
 
-1. Traversing Array in Reverse(Using ESTCV Approach)
-2. Traverse from Both Ends.
-3. Partioning Arrays
+1. ~~Traversing Array in Reverse(Using ESTCV Approach)~~
+2. ~~Traverse from Both Ends.~~
+3. ~~Partioning Arrays~~
 
 ## Subarray Problems
 

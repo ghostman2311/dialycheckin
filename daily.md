@@ -278,8 +278,8 @@
 
 1. React.memo for reducing re-renders.
    1. ~~Memoize components~~
-   2. Custom comparator
-   3. Primitive value
+   2. ~~Custom comparator~~
+   3. ~~Primitive value~~
 2. Window large lists with react-virtual
 3. Optimize context value.
    1. Separate the contexts
@@ -297,8 +297,8 @@
 
 ## Array and Strings
 
-1. Traverse from Both Ends.
-2. Partioning Arrays
+1. ~~Traverse from Both Ends.~~
+2. ~~Partioning Arrays~~
 
 ## Subarray Problems
 
@@ -326,11 +326,19 @@
 
 ## Timesheet
 
-- Total()
+- Total Investment(1 hr)
 
-1. First milestone for today
+1. First milestone(1 hr)
    1. React.memo for reducing re-renders.
       1. ~~Memoize components~~
-      2. Custom comparator
-      3. Primitive value
-   2. Window large lists with react-virtual
+      2. ~~Custom comparator~~
+      3. ~~Primitive value~~
+   2. ~~Window large lists with react-virtual~~
+   3. Optimize context value.
+      1. Separate the contexts
+2. Data structures
+   1. ~~ESTCV approach in reverse(practice)~~
+   2. ~~Move-Zeroes~~(https://leetcode.com/problems/move-zeroes/)
+   3. ~~Traverse from Both Ends.~~
+   4. ~~Partioning Arrays~~
+   5. ~~Dutch National Flag~~
