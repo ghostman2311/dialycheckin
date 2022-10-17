@@ -342,3 +342,33 @@
    3. ~~Traverse from Both Ends.~~
    4. ~~Partioning Arrays~~
    5. ~~Dutch National Flag~~
+
+# 17 October(Monday)
+
+## Revision
+
+1. Code Splitting
+   1. Code Split
+   2. Eager Loading
+   3. Webpack magic comments
+   4. Suspense position
+   5. Coverage tool
+2. useMemo for expensive calculations
+   1. Wrap a function in useMemo
+   2. Production mode
+   3. getItems web worker
+3. React.memo for reducing re-renders
+   1. Memoize components
+   2. Custom comparator
+   3. Primitive value
+4. ESTCV approach in reverse(practice)
+5. Move-Zeroes(https://leetcode.com/problems/move-zeroes/)
+6. Traverse from Both Ends.
+7. Partioning Arrays
+8. Dutch National Flag
+9. Cache
+10. React patterns
+
+## Subarray Problems
+
+1. Kadane's Algo
