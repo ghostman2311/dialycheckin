@@ -371,4 +371,19 @@
 
 ## Subarray Problems
 
-1. Kadane's Algo
+1. ~~Kadane's Algo~~
+
+# 18 October(Tuesday)
+
+## Revision
+
+1. Youdera table
+2. React-performance
+
+## Youdera
+
+1. Half hour session(enhance the table)
+
+## Data structures
+
+1. Kadane part 2
