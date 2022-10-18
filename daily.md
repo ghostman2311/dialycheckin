@@ -377,8 +377,22 @@
 
 ## Revision
 
-1. Youdera table
+1. ~~Youdera table~~
 2. React-performance
+
+## Youdera
+
+1. ~~Half hour session(enhance the table)~~
+
+## Data structures
+
+1. ~~Kadane part 2~~
+
+# 19 October(Wednesday)
+
+## Revision
+
+1. Youdera table with pagination
 
 ## Youdera
 
@@ -386,4 +400,4 @@
 
 ## Data structures
 
-1. Kadane part 2
+1. Kadane part 4
