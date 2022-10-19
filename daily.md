@@ -392,7 +392,22 @@
 
 ## Revision
 
-1. Youdera table with pagination
+~~1. Youdera table with pagination~~
+
+## Youdera
+
+~~1. Half hour session(enhance the table)~~
+~~2. Kadane theory~~
+
+## Data structures
+
+~~1. Kadane part 4~~
+
+# 20 October(Thursday)
+
+## Revision
+
+1. Cache Management
 
 ## Youdera
 
@@ -400,4 +415,4 @@
 
 ## Data structures
 
-1. Kadane part 4
+1. Sliding window intro
