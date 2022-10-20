@@ -415,4 +415,11 @@
 
 ## Data structures
 
-1. Sliding window intro
+1. ~~Sliding window intro~~
+
+# 21 October(Friday)
+
+## Revision
+
+1. Sliding window
+2. kadane's algo
