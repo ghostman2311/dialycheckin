@@ -123,3 +123,45 @@
 13. Deep Dive on Bundling
 14. Filters and namespaces.
 15. Adding a tiny test package.
+
+---
+
+# Week 1 (25 oct- 30 Oct(atmost 5pm))
+
+## System Design
+
+1. Load Balancers
+2. App servers
+3. CAP theorem
+4. Sharding using partition functions
+5. Dynamic Sharding
+6. Sharding- Consistent Hashing
+
+## Data Structures
+
+1. Binary Search
+   1. Implementation
+   2. Binary Search with Duplicates
+   3. Search for closet- Record and Move on.
+   4. Special Tricks.
+2. Recursion and Backtracking
+   1. Intro to recursion and memoization.
+   2. Permutations/Combinations using Auxiliary Buffer.
+   3. Backtracking SpaceShip
+3. Linked List
+   1. Implementation
+   2. Append Function
+   3. Deleting Nodes
+   4. Slow Pointer, Fast Pointer
+   5. Linked Hash table
+   6. Reversing a linked list
+
+## Nest JS
+
+1. Generating Projects with the nest cli
+   1. App setup
+   2. Using the nest cli to generate files.
+   3. More on generating files
+   4. Adding Routing Logic
+   5. Postman setup
+   6. VSCode rest client extension
