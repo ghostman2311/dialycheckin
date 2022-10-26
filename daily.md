@@ -456,16 +456,16 @@
 
 ## Revision
 
-1. Sliding Window
+1. ~~Sliding Window~~
 2. Kadane's algo
-3. Dutch National Flag
-4. Prefix sum
-5. Traversing Array in reverse and Both ends
+3. ~~Dutch National Flag~~
+4. ~~Prefix sum~~
+5. ~~Traversing Array in reverse and Both ends~~
 6. Nest js basics
 
 ## System Design
 
-1. Load Balancers
+1. ~~Load Balancers~~
 2. App servers
 3. CAP theorem
 4. Sharding using partition functions
@@ -480,3 +480,22 @@
 
 1. Isomorphic strings.
 2. Is Subsequence.
+
+# 27 October(Thursday)
+
+## Revision
+
+1. Kadane's algo
+2. Nest js basics
+
+## System Design
+
+1. App servers
+
+## Nest Js
+
+1. App setup
+
+## Leetcode
+
+1. Isomorphic strings.
