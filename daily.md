@@ -485,7 +485,7 @@
 
 ## Revision
 
-1. Kadane's algo
+1. ~~Kadane's algo~~
 2. Nest js basics
 
 ## System Design
@@ -494,7 +494,27 @@
 
 ## Nest Js
 
-1. App setup
+1. ~~App setup~~
+
+## Leetcode
+
+1. ~~Isomorphic strings.~~
+
+# 28 October(Friday)
+
+## Revision
+
+1. Nest js basics
+2. Ismorphic strings
+3. Find pivot
+
+## System Design
+
+1. App servers
+
+## Nest Js
+
+1. Using the nest cli to generate files
 
 ## Leetcode
 
