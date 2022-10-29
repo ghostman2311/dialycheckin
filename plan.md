@@ -1,33 +1,52 @@
-# Define a clear Goal
+# Define a clear goal
 
-- ~~I have to complete the bookshelf application and one question of interview cake.~~ // I have to prepare for interview camp, 100 leetcode questions and completed nestjs course.
+I want to learn the full stack applications and data structures.
 
 ## Are you commited to this?
 
-- ~~This course will help me to understand the best practice in react application. Plus I will learn about testing and many more exciting feature which is awesome. Now I am learning react but with interview cake question I will be on another level. It will definately help me in interview setting.~~
+Why your previous project failed? Aren't you commited to your goals then ?
 
-- This courses will help me to get a new job in MANG or startup. I have to travel so this is the best I can do right now. For React I can study in office.
+1. Health.(Eating unnecessary outside food)
+2. Coming late from office.
+3. Disturbance in between study sessions.
+
+Yes, I am committed to this project. I need to know just one application that I can built from scratch so I will have overall idea how an application are build in real. Data structures and algo are your best friend for your interview or your dream job. You can not go far without this.
+
+Note: **DO NOT QUIT THIS PROJECT UNTILL YOU ARE DONE WITH IT**
 
 # Learning Materials
 
-- Interview Camp.
-- Nest js stephen grider
+1. CBT Nuggets(Full course)
+2. Interview Camp
+3. Leetcode
 
-# Estimate Time Required to achieve Goal
+# Estimate time required to achieve goal
 
-- 24 November 22
+1. CBT Nuggets(26 Hours of video content)
+2. Interview camp (85 hours of video content including System Design and mock interviews)
 
-# Set Deadlines and Milestones
+Note: Initially I will give 1 hour only for study(rev + new) for days (5 days)
+**Priority**
 
-- Linked List
-- Array and strings
-- Sorting
-- Trie
+1. Leetcode
+2. Interview camp
+3. CBT Nuggets
 
-# Week by week progress
+rev: 30 mint
+new: 30 mint
+total: 1 hr
 
-- Week 1: Binary Search, Recursion and Backtracking, Linked List. System Design: Load Balancers, App servers, CAP theorem, Sharding using partition functions, Dynamic Sharding, Sharding- Consistent Hashing. Nest JS: Generating Projects with the Nest CLI.
-- Week 2: Stack, Queue, Dyanmic Programming and Array and Strings. System Design: Databases- Intro to indexing and NoSql, Key-Value Stores incl. Object Stores, In memory DBs, Wide Column Stores- e.g HBase Cassandra and Transaction Processing. Nest JS: Validating Request Data with pipes.
-- Week 3: Hash table & Hash functions, Graphs, Heaps and Sorting. System Design: Distributed File System Design, Distributed Processing using MapReduce and Spatial Indexing- Nearest Neighbors Search. Nest JS: Nest Architecture: Services and Repositories.
-- Week 4: Bit Manipulation, Graphs 2, Binary Tree, Binary Search Tree and Trie. Nest JS: Nest Architecture: Organizing Code with Modules.
-- Note: Do 2 leetcode problem every day. (Min: 1)
+# Deadlines and Milestones
+
+1. 3 October: { 1. **5 leetcode questions**, 2. **Binary Search, Special tricks**, 3. **Account creation and error handling in firebase auth** }
+
+# Week by Week Progress
+
+1. Week 1:
+
+   1. Camp: Binary Search, Special Tricks
+   2. FSR: Load Server side data in react, Create and modify server side data in react, Firebase auth basics and Account Creation and Error Handling in Firebase
+   3. 5 Leetcode questions.
+
+2. Week 2:
+   1. To be defined
