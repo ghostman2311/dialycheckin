@@ -8,11 +8,11 @@
 
 ## Revision
 
-1. Is Subsequence
+1. ~~Is Subsequence~~
 
 ## Leetcode
 
-1. Merge two sorted lists
+1. ~~Merge two sorted lists~~
 
 ## Camp
 
