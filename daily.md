@@ -34,13 +34,12 @@
 
 ## FSR
 
-1. Load Server Side Data in React
+1.Create a simple react front end:
 
-   1. Basic full stack conversion strategy
-   2. Full stack server setup
-   3. Read Server endpoints
-   4. Converting pages to use server data
-   5. Converting context to use server data
+1.  ~~Map Out the App~~
+2.  ~~ Create pages and setup routes~~
+3.  Build the notes page and list
+4.  Build the note detail page
 
 ## Camp
 
