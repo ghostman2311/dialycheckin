@@ -48,3 +48,18 @@
 ## Revision
 
 1. Merge two sorted lists
+
+# 10 Novemeber
+
+## FSR
+
+1. Store Note Data inside a context provider.
+
+## Leetcode
+
+1. Merge two sorted lists
+2. Is Subsequence
+
+## Camp
+
+1. Binary search implementation(Rev)

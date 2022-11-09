@@ -49,3 +49,24 @@
 3. Reverse a linked lists
 4. Middle of the linked list
 5. Linked list cycle 2
+
+# Week 2(9 nov-15nov)
+
+## FSR
+
+1. Store Note Data inside a context provider.
+2. Add a create note modal.
+3. Creating new notes in context.
+4. Deleting notes in context.
+5. Updating notes in context.
+
+## Leetcode
+
+1. Reverse a linked lists
+2. Middle of the linked list
+3. Linked list cycle 2
+
+## Camp
+
+1. Special tricks 1
+2. Special tricks 2

@@ -38,7 +38,7 @@ total: 1 hr
 
 # Deadlines and Milestones
 
-1. 3 October: { 1. **5 leetcode questions**, 2. **Binary Search, Special tricks**, 3. **Account creation and error handling in firebase auth** }
+1. 3 October: { 1. **5 leetcode questions**, 2. **Binary Search, Special tricks**, 3. **Account creation and error handling in firebase auth** }(Not Achieved)
 
 # Week by Week Progress
 
@@ -48,5 +48,7 @@ total: 1 hr
    2. FSR: Load Server side data in react, Create and modify server side data in react, Firebase auth basics and Account Creation and Error Handling in Firebase
    3. 5 Leetcode questions.
 
-2. Week 2:
-   1. To be defined
+2. Week 2:(9 Nov-15 Nov)
+   1. FSR: Front end data management.
+   2. Camp: Special tricks and previous revision.
+   3. 3 leetcode questions
