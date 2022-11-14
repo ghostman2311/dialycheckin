@@ -1,6 +1,6 @@
 # Define a clear goal
 
-I want to learn the full stack applications and data structures.
+I want to learn the full stack applications(MERN) and data structures.
 
 ## Are you commited to this?
 
@@ -25,16 +25,13 @@ Note: **DO NOT QUIT THIS PROJECT UNTILL YOU ARE DONE WITH IT**
 1. CBT Nuggets(26 Hours of video content)
 2. Interview camp (85 hours of video content including System Design and mock interviews)
 
-Note: Initially I will give 1 hour only for study(rev + new) for days (5 days)
+3 Months _ 4 weeks/months _ 8 hours/week = 96 Total Hours.
+
 **Priority**
 
 1. Leetcode
 2. Interview camp
 3. CBT Nuggets
-
-rev: 30 mint
-new: 30 mint
-total: 1 hr
 
 # Deadlines and Milestones
 
@@ -42,13 +39,13 @@ total: 1 hr
 
 # Week by Week Progress
 
-1. Week 1:
+1. Week-1(13- 19 Nov(8 Hrs/week)) //Test week
 
-   1. Camp: Binary Search, Special Tricks
-   2. FSR: Load Server side data in react, Create and modify server side data in react, Firebase auth basics and Account Creation and Error Handling in Firebase
-   3. 5 Leetcode questions.
+   1. Full stack React(3.5 hrs)
 
-2. Week 2:(9 Nov-15 Nov)
-   1. FSR: Front end data management.
-   2. Camp: Special tricks and previous revision.
-   3. 3 leetcode questions
+      1. Note sharing App: Add styling
+      2. Create a backend with node and express(only full project setup)
+
+   2. Interview Camp(3.5 hrs)
+      1. Binary search
+      2. Recursion and backtracking(Till using Auxilliary buffer)

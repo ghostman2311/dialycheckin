@@ -63,3 +63,13 @@
 ## Camp
 
 1. Binary search implementation(Rev)
+
+# 14 November
+
+## FSR
+
+1.  Add Styling to the App
+
+## Interview camp
+
+1. Binary Search complete

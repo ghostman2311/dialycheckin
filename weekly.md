@@ -54,11 +54,11 @@
 
 ## FSR
 
-1. Store Note Data inside a context provider.
-2. Add a create note modal.
-3. Creating new notes in context.
-4. Deleting notes in context.
-5. Updating notes in context.
+1. ~~Store Note Data inside a context provider.~~
+2. ~~Add a create note modal.~~
+3. ~~Creating new notes in context.~~
+4. ~~Deleting notes in context.~~
+5. ~~Updating notes in context.~~
 
 ## Leetcode
 
