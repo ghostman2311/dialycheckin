@@ -70,3 +70,17 @@
 
 1. Special tricks 1
 2. Special tricks 2
+
+# Week 1(14 Nov-19 Nov)
+
+# FSR
+
+1. Note sharing App: Add styling
+
+   1. Add styling to the app.
+   2. Create a reusable x component.
+   3. Create a navigation bar.
+   4. Render markdown in react
+
+2. Backend
+   1. Full stack project setup

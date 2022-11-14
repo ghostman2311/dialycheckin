@@ -68,8 +68,24 @@
 
 ## FSR
 
-1.  Add Styling to the App
+1.  ~~Add Styling to the App~~
 
 ## Interview camp
 
-1. Binary Search complete
+1. ~~Binary Search complete~~
+
+# 15 November
+
+## FSR
+
+1. Add styling to react app
+
+## Interview
+
+1. Special trick-1
+
+## Revision
+
+1. Record and move on
+2. Context module
+3. Styling react app
