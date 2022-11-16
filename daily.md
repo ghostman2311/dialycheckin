@@ -89,3 +89,18 @@
 1. Record and move on
 2. Context module
 3. Styling react app
+
+# 17 November
+
+## FSR
+
+1. Create a reusable x component.
+
+## Interview
+
+1. specialTrick-2
+
+## Revision
+
+1. Cyclic sorted array
+2. Styles to the app
