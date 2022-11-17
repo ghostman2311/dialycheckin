@@ -94,13 +94,32 @@
 
 ## FSR
 
-1. Create a reusable x component.
+1. ~~Create a reusable x component.~~
 
 ## Interview
 
-1. specialTrick-2
+1. ~~specialTrick-2~~
 
 ## Revision
 
-1. Cyclic sorted array
-2. Styles to the app
+1. ~~Cyclic sorted array~~
+2. ~~Styles to the app~~
+
+# 18 November
+
+## Revision
+
+1. XButton
+2. array of unknown length
+3. Record and move on
+4. styling the app
+5. Building the note page
+6. Build the note detail page.
+
+## FSR
+
+1. Create a navigation bar.
+
+## Camp
+
+1. Intro to recursion and memoization
