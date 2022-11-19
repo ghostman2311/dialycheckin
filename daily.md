@@ -123,3 +123,25 @@
 ## Camp
 
 1. Intro to recursion and memoization
+
+# 19 November
+
+## Revision
+
+1. Fibonacci
+2. Cyclic sorted array
+3. Record and move on
+4. kadanes
+5. move zeroes
+6. Create a navigation bar
+7. Create Front end of notes app(Module 1)
+8. Front End data management
+
+## FSR
+
+1. Render markdown in react
+
+## Camp
+
+1. ~~Print all combination using auxiliary buffer~~
+2. ~~Print all subsets using auxiliary buffer.~~
