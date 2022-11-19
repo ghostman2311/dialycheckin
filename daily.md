@@ -109,8 +109,8 @@
 
 ## Revision
 
-1. XButton
-2. array of unknown length
+1. ~~XButton~~
+2. ~~array of unknown length~~
 3. Record and move on
 4. styling the app
 5. Building the note page
@@ -118,11 +118,11 @@
 
 ## FSR
 
-1. Create a navigation bar.
+1. ~~Create a navigation bar.~~
 
 ## Camp
 
-1. Intro to recursion and memoization
+1. ~~Intro to recursion and memoization~~
 
 # 19 November
 
