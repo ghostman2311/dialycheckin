@@ -128,14 +128,15 @@
 
 ## Revision
 
-1. Fibonacci
-2. Cyclic sorted array
-3. Record and move on
-4. kadanes
-5. move zeroes
-6. Create a navigation bar
-7. Create Front end of notes app(Module 1)
-8. Front End data management
+1. ~~Fibonacci~~
+2. ~~Cyclic sorted array~~
+3. ~~First occurence of an element~~
+4. ~~Record and move on~~
+5. ~~kadanes~~
+6. ~~move zeroes~~
+7. Create a navigation bar
+8. Create Front end of notes app(Module 1)
+9. Front End data management
 
 ## FSR
 
@@ -145,3 +146,21 @@
 
 1. ~~Print all combination using auxiliary buffer~~
 2. ~~Print all subsets using auxiliary buffer.~~
+
+# 20 November
+
+## Revision
+
+1. Front end data management
+2. Styling
+3. Kadane's
+4. Recursion using auxiliary buffer.
+
+## FSR
+
+1. Full stack project setup
+2. Create a "Read" Endpoint and load data from the client side.
+
+## Interview camp
+
+1. Backtracking Saceship
