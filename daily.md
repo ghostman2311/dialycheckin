@@ -151,10 +151,10 @@
 
 ## Revision
 
-1. Front end data management
-2. Styling
-3. Kadane's
-4. Recursion using auxiliary buffer.
+1. ~~Front end data management~~
+2. ~~Styling~~
+3. ~~Kadane's~~
+4. ~~Recursion using auxiliary buffer.~~
 
 ## FSR
 
@@ -164,3 +164,21 @@
 ## Interview camp
 
 1. Backtracking Saceship
+
+# 21 November
+
+## Revision
+
+1. Create a navigation bar
+2. Prefix Sum
+3. Sliding window
+
+## FSR
+
+1. Render markdown in react app
+2. Full stack project setup.
+3. Create a "Read" Endpoint and load data from the client side.
+
+## Interview camp
+
+1. Backtracking spaceship
