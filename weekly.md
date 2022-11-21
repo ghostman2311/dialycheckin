@@ -132,3 +132,5 @@
       1. Intro
       2. Sliding window
       3. Queue with max
+
+## Hours remaining: 9 hrs

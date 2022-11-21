@@ -170,8 +170,8 @@
 ## Revision
 
 1. Create a navigation bar
-2. Prefix Sum
-3. Sliding window
+2. ~~Prefix Sum~~
+3. ~~Sliding window~~
 
 ## FSR
 
@@ -181,4 +181,27 @@
 
 ## Interview camp
 
-1. Backtracking spaceship
+1. ~~Backtracking spaceship~~
+
+## Time
+
+1. 30 min \* 2 = 60 minutes
+
+# 22 November
+
+## Revision
+
+1. Create a navigation bar
+2. Backtrack spaceship
+3. Prefix
+4. sliding window
+5. Data management of notes app
+6. Print all subset of array
+
+## FSR
+
+1. Create a "Read" Endpoint and load data from the client side.
+
+## Camp
+
+1. auxiliary buffer complete
