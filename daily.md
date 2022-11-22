@@ -192,11 +192,11 @@
 ## Revision
 
 1. Create a navigation bar
-2. Backtrack spaceship
-3. Prefix
-4. sliding window
+2. ~~Backtrack spaceship~~
+3. ~~Prefix~~
+4. ~~sliding window~~
 5. Data management of notes app
-6. Print all subset of array
+6. ~~Print all subset of array~~
 
 ## FSR
 
@@ -204,4 +204,4 @@
 
 ## Camp
 
-1. auxiliary buffer complete
+1. ~~auxiliary buffer complete~~
