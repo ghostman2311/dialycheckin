@@ -126,7 +126,7 @@
 
 ---
 
-# Week 1 (25 oct- 30 Oct(atmost 5pm))
+# Week 1 (25 oct- 30 Oct(almost 5pm))
 
 ## System Design
 
