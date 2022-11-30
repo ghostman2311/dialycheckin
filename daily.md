@@ -205,3 +205,20 @@
 ## Camp
 
 1. ~~auxiliary buffer complete~~
+
+# 30 November
+
+## FSR
+
+1. ~~Data ownership in create and delete endpoints~~
+
+# 1 December
+
+## FSR
+
+1. Subscribe to Auth State Changes
+2. Protect routes with arbitrary criteria
+
+## Revision
+
+1. Data ownership in create and delete endpoints
