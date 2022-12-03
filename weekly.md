@@ -100,37 +100,51 @@
 
 1. Full stack React
    1. Create backend with node and express(29 min) -[]
-      1. Create a "Read" Endpoint and load data from the client side.
-      2. Add a "create" endpoint and make requests from the client side.
-      3. Add "update" and "delete" endpoints.
+      1. ~~Create a "Read" Endpoint and load data from the client side.~~
+      2. ~~Add a "create" endpoint and make requests from the client side.~~
+      3. ~~Add "update" and "delete" endpoints.~~
    2. Add a database(44 minutes)
-      1. Add mongodb to the backend
-      2. Convert endpoint to use mongodb.
-      3. Split express servers into multiple files.
-      4. Make mongodb available in different files.
-      5. Rewrite routes to increase performance.
+      1. ~~Add mongodb to the backend~~
+      2. ~~Convert endpoint to use mongodb.~~
+      3. ~~Split express servers into multiple files.~~
+      4. ~~Make mongodb available in different files.~~
+      5. ~~Rewrite routes to increase performance.~~
    3. Add user Authentication to front-end(45 minutes)
-      1. Create Login and create Account forms.
-      2. Add login and create account pages.
-      3. Styling the login adn create account pages.
-      4. Add firebase auth to the front-end.
-2. Interview Camp
-   1. Backtracking Saceship(14 minutes)
-   2. Linked List(37 minutes)
-      1. Implementation
-      2. Append function
-      3. Deleting Nodes
-      4. Slow pointer, fast pointer
-      5. Linked Hash table
-      6. Reversing a linked list
-   3. Stack(39 minutes)
-      1. Intro
-      2. Stack as Restriction
-      3. stack with max
-      4. Expression evaluation
-   4. Queue(19 minutes)
-      1. Intro
-      2. Sliding window
-      3. Queue with max
+      1. ~~Create Login and create Account forms.~~
+      2. ~~Add login and create account pages.~~
+      3. ~~Styling the login adn create account pages.~~
+      4. ~~Add firebase auth to the front-end.~~
 
 ## Hours remaining: 9 hrs
+
+# Week -3 (27 -3 Dec(10 hrs/week))
+
+1. Full Stack React
+
+   1. Add User Authentication to backend
+
+      1. ~~Install and setup firebase admin~~
+      2. ~~How should we organize our databse~~
+      3. ~~Convert Endpoints for ownership~~
+      4. ~~Data ownership in create and delete endpoints~~
+
+   2. Front end refactoring(35 minutes)
+
+      1. Subscribe to auth state changes
+      2. Protect routes with arbitrary criteria
+      3. Create a useUser hook
+      4. include users tokens in requests.
+
+   3. Protect User's data(50 minutes)
+
+      1. Protect Users data from unwanted access
+      2. Prevent users from deleting other users data
+      3. Prevent unauthorized data modification
+      4. Add protection to the create note endpoint
+      5. Use middleware to reduce repetition
+      6. Add more middleware
+
+   4. User Account Management(26 min)
+
+      1. Data segregation demonstration
+      2. User account creation
