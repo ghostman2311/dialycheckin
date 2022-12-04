@@ -255,10 +255,10 @@
 
 1.  Protect User's data(50 minutes)
 
-    1. Protect Users data from unwanted access
-    2. Prevent users from deleting other users data
-    3. Prevent unauthorized data modification
-    4. Add protection to the create note endpoint
+    1. ~~Protect Users data from unwanted access~~
+    2. ~~Prevent users from deleting other users data~~
+    3. ~~Prevent unauthorized data modification~~
+    4. ~~Add protection to the create note endpoint~~
     5. Use middleware to reduce repetition
     6. Add more middleware
 
@@ -267,4 +267,7 @@
     1. Data segregation demonstration
     2. User account creation
 
+
+## Session: 
+1. 30 * 2
 
