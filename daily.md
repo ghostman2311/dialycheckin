@@ -229,10 +229,10 @@
 
 1.  Front end refactoring(35 minutes)
 
-    1. Subscribe to auth state changes
-    2. Protect routes with arbitrary criteria
-    3. Create a useUser hook
-    4. include users tokens in requests.
+    1. ~~Subscribe to auth state changes~~
+    2. ~~Protect routes with arbitrary criteria~~
+    3. ~~Create a useUser hook~~
+    4. ~~include users tokens in requests.~~
 
 2.  Protect User's data(50 minutes)
 
@@ -247,3 +247,24 @@
 
     1. Data segregation demonstration
     2. User account creation
+
+
+# 4 December
+
+## FSR
+
+1.  Protect User's data(50 minutes)
+
+    1. Protect Users data from unwanted access
+    2. Prevent users from deleting other users data
+    3. Prevent unauthorized data modification
+    4. Add protection to the create note endpoint
+    5. Use middleware to reduce repetition
+    6. Add more middleware
+
+2.  User Account Management(26 min)
+
+    1. Data segregation demonstration
+    2. User account creation
+
+
