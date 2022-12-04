@@ -248,7 +248,6 @@
     1. Data segregation demonstration
     2. User account creation
 
-
 # 4 December
 
 ## FSR
@@ -259,15 +258,21 @@
     2. ~~Prevent users from deleting other users data~~
     3. ~~Prevent unauthorized data modification~~
     4. ~~Add protection to the create note endpoint~~
-    5. Use middleware to reduce repetition
-    6. Add more middleware
+    5. ~~Use middleware to reduce repetition~~
+    6. ~~Add more middleware~~
 
 2.  User Account Management(26 min)
 
     1. Data segregation demonstration
     2. User account creation
 
+## Session:
 
-## Session: 
-1. 30 * 2
+1. 30 \* 2
 
+# 5 December
+
+1.  User Account Management(26 min)
+
+    1. Data segregation demonstration
+    2. User account creation

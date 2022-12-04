@@ -58,8 +58,8 @@ Note: **DO NOT QUIT THIS PROJECT UNTILL YOU ARE DONE WITH IT**
 
    1. Full stack react(6 hrs)
       1. ~~Add user authentication to back-end~~(45 minutes)
-      2. Front End refactoring(35 minutes)
-      3. Protect Users data(50 minutes)
+      2. ~~Front End refactoring(35 minutes)~~
+      3. ~~Protect Users data(50 minutes)~~
       4. User Account Management(Data segregation and User Account Creation)
 
 4. Week-4(4 - 10 December(12 hrs/week))
