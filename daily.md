@@ -276,3 +276,7 @@
 
     1. Data segregation demonstration
     2. User account creation
+
+# 7 December
+
+1. Front End data management(Rev)

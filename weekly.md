@@ -148,3 +148,7 @@
 
       1. Data segregation demonstration
       2. User account creation
+
+# Week - 4 (4 Dec - 10 Dec) (Revision)
+
+1. Note sharing App: Add styling.
