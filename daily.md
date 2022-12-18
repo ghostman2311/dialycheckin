@@ -281,6 +281,14 @@
 
 1. Front End data management(Rev)
 
+# 8 December
 
-# 8 December 
-1. CRA Frontend 
+1. CRA Frontend
+
+# 18 December
+
+1. Map out the app
+2. Create pages and setup routes
+3. Building the note page and list
+4. Build the note detail page
+5. Leetcode question.
