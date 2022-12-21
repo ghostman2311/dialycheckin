@@ -292,3 +292,23 @@
 3. Building the note page and list
 4. Build the note detail page
 5. Leetcode question.
+
+# 22 December
+
+## Revision
+
+1. Position in css
+2. FSR next first and second module
+3. Merge meeting
+
+## Interview cake
+
+1. Merge meeting
+
+## Neotex
+
+1. 10 minutes
+
+## Stephen
+
+1. 10 minutes
