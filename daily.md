@@ -312,3 +312,27 @@
 ## Stephen
 
 1. 10 minutes
+
+# 29 December
+
+## Revision
+
+1. CSS bootcamp website
+2. Merge meeting times
+3. Till create a modal
+
+## Interview cake
+
+1. Reverse words
+
+## Stephen
+
+1. Complete In Browser bundling
+
+## CSS
+
+1. 10 mint of CSS
+
+## Insta
+
+1. 10 mint of insta
