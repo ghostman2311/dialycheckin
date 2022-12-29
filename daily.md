@@ -317,7 +317,7 @@
 
 ## Revision
 
-1. CSS bootcamp website
+1. ~~CSS bootcamp website~~
 2. Merge meeting times
 3. Till create a modal
 
@@ -327,12 +327,34 @@
 
 ## Stephen
 
-1. Complete In Browser bundling
+1. ~~Complete In Browser bundling~~
 
 ## CSS
 
-1. 10 mint of CSS
+1. ~~10 mint of CSS~~
 
 ## Insta
 
 1. 10 mint of insta
+
+# 30 Dec
+
+## Revision
+
+1. Till Create a modal on paper
+2. Till Nav list a
+3. Bootcamp website
+4. Build using esbuild
+5. CSS Positions demo
+
+## Stephen
+
+1. Next 10 Minutes lecture
+
+## CSS
+
+1. 10 min of CSS
+
+## Instagram
+
+1. 10 mint
