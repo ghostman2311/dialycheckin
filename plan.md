@@ -1,88 +1,37 @@
-# Define a clear goal
+# Goal
 
-I want to learn the full stack applications(MERN) and data structures.
+I want to complete Node with React: Fullstack Web Development and React and Typescript: Build a Portfolio Project course
 
-## Are you commited to this?
+## Why
 
-Why your previous project failed? Aren't you commited to your goals then ?
-
-1. Health.(Eating unnecessary outside food)
-2. Coming late from office.
-3. Disturbance in between study sessions.
-
-- Frontend + Backend: Compared to other things I was contemplating for my project, Javascript is a language which can used on both the frontend and the backend. This means it will help me levelup as a full stack developer.
-- Interview: By learning the data structure and algorithms. I am opening myself for vast opportunities.
-
-Note: **DO NOT QUIT THIS PROJECT UNTILL YOU ARE DONE WITH IT**
+This course will give me the exposure of React and Node Enviroment i.e how things really works. It will also help me to earn side money on freelancing websites. This january I am dedicated to become full stack developer. From Febuary I will start with coding problems. This time I have to complete these course no matter what.
 
 # Learning Materials
 
-1. CBT Nuggets(Full stack development course)
-2. Interview Camp
+1. https://www.udemy.com/course/node-with-react-fullstack-web-development/
+2. https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/
 
 # Estimate time required to achieve goal
 
-1. CBT Nuggets(26 Hours of video content)
-2. Interview camp (85 hours of video content including System Design and mock interviews)
+1. Node with React(26 hrs)
+2. React amd Typescript(30 hrs)
 
-3 Months _ 4 weeks/months _ 8 hours/week = 96 Total Hours.
+# Milestone and Deadlines
 
-**Priority**
-
-1. Leetcode
-2. Interview camp
-3. CBT Nuggets
-
-# Deadlines and Milestones
-
-1.
+1. 7 January(2:45 hrs content each) or 5:30 hrs collectively
 
 # Week by Week Progress
 
-1. Week-1(13- 19 Nov(8 Hrs/week)) //Test week
+## Week-1 (31 Dec - 7 january)
 
-   1. Full stack React(3.5 hrs)
+### Node with React
 
-      1. ~~Note sharing App: Add styling~~
-      2. Create a backend with node and express(only full project setup)
+1. Intro(22 min)
+2. Server Side Architecture(1hr 5 min)
+3. Authentication with googleOAuth(1 hr)
 
-2. Week-2(20- 26 Nov(10 Hrs/week))
+### React and Typescript
 
-   1. Full stack react(5 Hrs)
-
-      1. ~~Create backend with node and express~~(29 min)
-      2. ~~Add a database~~(44 minutes)
-      3. ~~Add user Authentication to front-end~~(45 minutes)
-
-3. Week-3(27 Novemeber - 3 December(12 hrs/week))
-
-   1. Full stack react(6 hrs)
-      1. ~~Add user authentication to back-end~~(45 minutes)
-      2. ~~Front End refactoring(35 minutes)~~
-      3. ~~Protect Users data(50 minutes)~~
-      4. User Account Management(Data segregation and User Account Creation)
-
-4. Week-4(4 - 10 December(12 hrs/week))
-
-   1. Full stack react(6hrs)
-
-      1. User Account Management(17 minutes)
-      2. Add Note-sharing to the frontend(45 minutes)
-      3. Add note sharing to the backend(43 minutes)
-      4. Add user permission(48 minutes)
-
-5. Week -5(11-17 December(12 hrs/week))
-
-   1. Full stack react(6hrs)
-
-      1. Email Verification basics(33 minutes)
-      2. Advance email verification(52 minutes)
-      3. Link sharing(44 minutes)
-      4. Realtime communication(43 minutes)
-
-6. Week-6(18 -24 december(12hrs/week))
-   1. Full stack react(6hrs)
-      1. Web socket protection(45 minutes)
-      2. Web sockets organization(44 minutes)
-      3. Web sockets in depth(43 minutes)
-      4. Web sockets and endpoints(45 minutes)
+1. Dynamically fetching and Loading of npm modules(58min)
+2. Caching for Big Performance gain(1hr 10min)
+3. Safely handling untrusted code execution(30min)
