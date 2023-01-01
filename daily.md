@@ -28,21 +28,36 @@
 
 1. Dynamically fetching and Loading of npm modules
 
-   - Resolving Nested Paths
-   - It Works!
-   - Defines During Bundling
-   - Bonus! Package Versioning
+   - ~~Resolving Nested Paths~~
+   - ~~It Works!~~
+   - ~~Defines During Bundling~~
+   - ~~Bonus! Package Versioning~~
 
 2. Caching for Big Performance gain(1hr 10min)
 
-   - Crazy Numbers of Requests
-   - Implementing a Caching Layer
+   - ~~Crazy Numbers of Requests~~
+   - ~~Implementing a Caching Layer~~
 
 ## Node with React
 
 2. Server Side Architecture(1hr 5 min)
-   - Relationship between Node and Express
-   - Generating Express Apps
-   - Express Route Handlers
-   - Important Info About Heroku and Deployment
-   - Deployment Checklist
+   - ~~Relationship between Node and Express~~
+   - ~~Generating Express Apps~~
+   - ~~Express Route Handlers~~
+   - ~~Important Info About Heroku and Deployment~~
+   - ~~Deployment Checklist~~
+
+# 2 January
+
+## React and Typescript
+
+1. Caching for Big Performance gain(1hr 10min)
+   - Caching with Key-Value Pairs
+   - Fixing a TypeScript Error
+   - Bundling User Input
+
+## Node with React
+
+1. Authentication with googleOAuth(1 hr)
+   - Host on render.com
+   - Intro to GoogleOAuth

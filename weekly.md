@@ -10,17 +10,17 @@
 2. Server Side Architecture(1hr 5 min)
 
    - ~~Application Architecture~~
-   - Relationship between Node and Express
-   - Generating Express Apps
-   - Express Route Handlers
-   - Important Info About Heroku and Deployment
-   - Deployment Checklist
-   - [Railway] Registering for Railway and Installing Railway CLI
-   - [Railway] Creating a Railway Project and Application Service
-   - [Railway] Deploying App to Railway
-   - [Heroku] Installing the Heroku CLI
-   - [Heroku] Verifying Deployment
-   - [Heroku] Followup Deployments
+   - ~~Relationship between Node and Express~~
+   - ~~Generating Express Apps~~
+   - ~~Express Route Handlers~~
+   - ~~Important Info About Heroku and Deployment~~
+   - ~~Deployment Checklist~~
+   - ~~[Railway] Registering for Railway and Installing Railway CLI~~
+   - ~~[Railway] Creating a Railway Project and Application Service~~
+   - ~~[Railway] Deploying App to Railway~~
+   - ~~[Heroku] Installing the Heroku CLI~~
+   - ~~[Heroku] Verifying Deployment~~
+   - ~~[Heroku] Followup Deployments~~
 
 3. Authentication with googleOAuth(1 hr)
    - Intro to GoogleOAuth
@@ -43,15 +43,15 @@
    - ~~Solving Relative Paths~~
    - ~~Using the URL Constructor~~
    - ~~Failing Nested Requires~~
-   - Resolving Nested Paths
-   - It Works!
-   - Defines During Bundling
-   - Bonus! Package Versioning
+   - ~~Resolving Nested Paths~~
+   - ~~It Works!~~
+   - ~~Defines During Bundling~~
+   - ~~Bonus! Package Versioning~~
 
 2. Caching for Big Performance gain(1hr 10min)
 
-   - Crazy Numbers of Requests
-   - Implementing a Caching Layer
+   - ~~Crazy Numbers of Requests~~
+   - ~~Implementing a Caching Layer~~
    - Caching with Key-Value Pairs
    - Fixing a TypeScript Error
    - Bundling User Input
