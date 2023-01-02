@@ -23,9 +23,9 @@
    - ~~[Heroku] Followup Deployments~~
 
 3. Authentication with googleOAuth(1 hr)
-   - Intro to GoogleOAuth
-   - The OAuth Flow
-   - Overview of Passport JS
+   - ~~Intro to GoogleOAuth~~
+   - ~~The OAuth Flow~~
+   - ~~Overview of Passport JS~~
    - Passport Setup
    - Google+ Deprecation
    - Google Project Setup with new UI
@@ -52,9 +52,9 @@
 
    - ~~Crazy Numbers of Requests~~
    - ~~Implementing a Caching Layer~~
-   - Caching with Key-Value Pairs
-   - Fixing a TypeScript Error
-   - Bundling User Input
+   - ~~Caching with Key-Value Pairs~~
+   - ~~Fixing a TypeScript Error~~
+   - ~~Bundling User Input~~
    - Breaking Up Resolve Logic With Filters
    - Refactoring to Multiple Plugins
    - Loading CSS Files

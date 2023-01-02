@@ -52,12 +52,30 @@
 ## React and Typescript
 
 1. Caching for Big Performance gain(1hr 10min)
-   - Caching with Key-Value Pairs
-   - Fixing a TypeScript Error
-   - Bundling User Input
+   - ~~Caching with Key-Value Pairs~~
+   - ~~Fixing a TypeScript Error~~
+   - ~~Bundling User Input~~
 
 ## Node with React
 
 1. Authentication with googleOAuth(1 hr)
-   - Host on render.com
-   - Intro to GoogleOAuth
+   - ~~Host on render.com~~
+   - ~~Intro to GoogleOAuth~~
+
+# 3 January
+
+## Jbook
+
+1. Caching for Big Performance gain
+   - Breaking Up Resolve Logic With Filters
+   - Refactoring to Multiple Plugins
+   - Loading CSS Files
+   - Configuring the Correct Loader
+
+## Emaily
+
+1. Authentication with googleOAuth
+   - Passport Setup
+   - Google+ Deprecation
+   - Google Project Setup with new UI
+   - Enabling Google OAuth API
