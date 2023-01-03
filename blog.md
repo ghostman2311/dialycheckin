@@ -19,3 +19,44 @@
 - ~~It works~~
 
 ~ Everything completed, YAY you did it brother. :)
+
+# 3 January
+
+--> Tasks
+
+## Revision
+
+1. Dynamically fetching npm modules
+
+   - ~~Failing Nested Requires~~
+   - ~~Resolving Nested Paths~~
+   - ~~It Works!~~
+   - ~~Defines During Bundling~~
+   - ~~Bonus! Package Versioning~~
+
+2. Caching for Big Performance gain(1hr 10min)
+   - ~~Crazy Numbers of Requests~~
+   - ~~Implementing a Caching Layer~~
+   - ~~Caching with Key-Value Pairs~~
+   - ~~Fixing a TypeScript Error~~
+   - ~~Bundling User Input~~
+
+## Jbook
+
+1. Caching for Big Performance gain
+   - Breaking Up Resolve Logic With Filters
+   - Refactoring to Multiple Plugins
+   - Loading CSS Files
+   - Configuring the Correct Loader
+
+## Emaily
+
+1. Authentication with googleOAuth
+   - ~~Passport Setup~~
+   - ~~Google+ Deprecation~~
+   - Google Project Setup with new UI
+   - Enabling Google OAuth API
+
+### Reason why tasks are not completed?
+
+Time exceeded, I can not study after 11:30pm
