@@ -99,6 +99,10 @@
 
 # 4 January
 
+## Driving Form
+
+1. ~~Built the app version 1~~
+
 ## Jbook
 
 1. Caching for Big Performance gain
@@ -114,3 +118,23 @@
    - Enabling Google OAuth API
    - Securing API Keys
    - Google Strategy Options
+
+# 5 january
+
+## Jbook
+
+1. Caching for Big Performance gain
+   - ~~Breaking Up Resolve Logic With Filters~~
+   - ~~Refactoring to Multiple Plugins~~
+   - ~~Loading CSS Files~~
+   - ~~Configuring the Correct Loader~~
+
+## Emaily
+
+1. Authentication with googleOAuth
+   - ~~Google Project Setup with new UI~~
+   - ~~Enabling Google OAuth API~~
+   - ~~Securing API Keys~~
+   - ~~Google Strategy Options~~
+   - ~~Testing OAuth~~
+   - ~~Authorized Redirect URI's~~
