@@ -138,3 +138,20 @@
    - ~~Google Strategy Options~~
    - ~~Testing OAuth~~
    - ~~Authorized Redirect URI's~~
+
+# 6 January
+
+## Emaily
+
+- OAuth Callbacks
+- Access and Refresh Tokens
+- Nodemon Setup
+
+## Jbook
+
+- Small Shortcoming with ESBuild
+- Tricking ESBuild's CSS Handling
+- Escaping CSS Snippets
+- Separate Load Filters
+- Extracting Common Caching Logic
+- A Better Way of Loading WASM

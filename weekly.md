@@ -55,10 +55,10 @@
    - ~~Caching with Key-Value Pairs~~
    - ~~Fixing a TypeScript Error~~
    - ~~Bundling User Input~~
-   - Breaking Up Resolve Logic With Filters
-   - Refactoring to Multiple Plugins
-   - Loading CSS Files
-   - Configuring the Correct Loader
+   - ~~Breaking Up Resolve Logic With Filters~~
+   - ~~Refactoring to Multiple Plugins~~
+   - ~~Loading CSS Files~~
+   - ~~Configuring the Correct Loader~~
    - Small Shortcoming with ESBuild
    - Tricking ESBuild's CSS Handling
    - Escaping CSS Snippets
