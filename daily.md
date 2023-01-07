@@ -143,15 +143,30 @@
 
 ## Emaily
 
-- OAuth Callbacks
-- Access and Refresh Tokens
-- Nodemon Setup
+- ~~OAuth Callbacks~~
+- ~~Access and Refresh Tokens~~
+- ~~Nodemon Setup~~
 
 ## Jbook
 
-- Small Shortcoming with ESBuild
-- Tricking ESBuild's CSS Handling
-- Escaping CSS Snippets
-- Separate Load Filters
-- Extracting Common Caching Logic
-- A Better Way of Loading WASM
+- ~~Small Shortcoming with ESBuild~~
+- ~~Tricking ESBuild's CSS Handling~~
+- ~~Escaping CSS Snippets~~
+- ~~Separate Load Filters~~
+- ~~Extracting Common Caching Logic~~
+- ~~A Better Way of Loading WASM~~
+
+# 7 January
+
+## Jbook
+
+1.  Safely handling untrusted code execution(30min)
+
+- ~~Executing User Code~~
+- ~~Big Issues with Code Execution~~
+- ~~How Do Others Solve This?~~
+- ~~Displaying IFrames~~
+- ~~Different Execution Context~~
+- ~~Crossing Context~~
+- ~~Sandboxing an IFrame~~
+- ~~Breaking Access with Different Domains~~

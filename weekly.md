@@ -59,19 +59,19 @@
    - ~~Refactoring to Multiple Plugins~~
    - ~~Loading CSS Files~~
    - ~~Configuring the Correct Loader~~
-   - Small Shortcoming with ESBuild
-   - Tricking ESBuild's CSS Handling
-   - Escaping CSS Snippets
-   - Separate Load Filters
-   - Extracting Common Caching Logic
-   - A Better Way of Loading WASM
+   - ~~Small Shortcoming with ESBuild~~
+   - ~~Tricking ESBuild's CSS Handling~~
+   - ~~Escaping CSS Snippets~~
+   - ~~Separate Load Filters~~
+   - ~~Extracting Common Caching Logic~~
+   - ~~A Better Way of Loading WASM~~
 
 3. Safely handling untrusted code execution(30min)
-   - Executing User Code
-   - Big Issues with Code Execution
-   - How Do Others Solve This?
-   - Displaying IFrames
-   - Different Execution Context
-   - Crossing Context
-   - Sandboxing an IFrame
-   - Breaking Access with Different Domains
+   - ~~Executing User Code~~
+   - ~~Big Issues with Code Execution~~
+   - ~~How Do Others Solve This?~~
+   - ~~Displaying IFrames~~
+   - ~~Different Execution Context~~
+   - ~~Crossing Context~~
+   - ~~Sandboxing an IFrame~~
+   - ~~Breaking Access with Different Domains~~
