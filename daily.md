@@ -170,3 +170,20 @@
 - ~~Crossing Context~~
 - ~~Sandboxing an IFrame~~
 - ~~Breaking Access with Different Domains~~
+
+# 9 January
+
+## Jbook
+
+1. Safely Handling Untrusted code execution
+   - Do we need separation
+   - Middle ground approach
+
+## Emaily
+
+1. Adding MongoDb
+   - Server Structure Refactor
+
+## Leetcode
+
+1.  Build Array from Permutation
