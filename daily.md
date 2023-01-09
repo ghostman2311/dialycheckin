@@ -176,14 +176,37 @@
 ## Jbook
 
 1. Safely Handling Untrusted code execution
-   - Do we need separation
-   - Middle ground approach
+   - ~~Do we need separation~~
+   - ~~Middle ground approach~~
 
 ## Emaily
 
 1. Adding MongoDb
-   - Server Structure Refactor
+   - ~~Server Structure Refactor~~
 
 ## Leetcode
 
-1.  Build Array from Permutation
+1.  ~~Build Array from Permutation~~
+
+# 10 January
+
+## Revision
+
+1. Server side refactor
+2. Middle ground approach and codepen flow
+3. Safely handling untrusted code execution
+4. Cache for performance gain
+
+## Emaily
+
+1. The theory of authentication
+2. Signing In users with oauth
+
+## Jbook
+
+- Iframes with srcDocs
+- Execution usimg SrcDoc
+
+## Leetcode
+
+1. Concatenation of Array
