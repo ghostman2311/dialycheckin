@@ -18,7 +18,8 @@ This course will give me the exposure of React and Node Enviroment i.e how thing
 
 # Milestone and Deadlines
 
-1. 7 January(2:45 hrs content each) or 5:30 hrs collectively
+1. ~~7 January(2:45 hrs content each) or 5:30 hrs collectively~~
+1. 15 january (5hrs collectively) + 7 array easy leetcode questions.
 
 # Week by Week Progress
 
@@ -35,3 +36,18 @@ This course will give me the exposure of React and Node Enviroment i.e how thing
 1. Dynamically fetching and Loading of npm modules(58min)
 2. Caching for Big Performance gain(1hr 10min)
 3. Safely handling untrusted code execution(30min)
+
+### Week-2 (9 January - 15 January)
+
+## Node With React
+
+1. Adding MongoDB(2hr 45 min)
+
+## React and Typescript
+
+1. Safely handling Untrusted Code Execution(1hr)
+2. Displaying a code editor in react app(1hr 21 min)
+
+## Leetcode
+
+1. 7 array easy questions

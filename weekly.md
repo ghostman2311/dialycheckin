@@ -26,12 +26,12 @@
    - ~~Intro to GoogleOAuth~~
    - ~~The OAuth Flow~~
    - ~~Overview of Passport JS~~
-   - Passport Setup
-   - Google+ Deprecation
-   - Google Project Setup with new UI
-   - Enabling Google OAuth API
-   - Securing API Keys
-   - Google Strategy Options
+   - ~~Passport Setup~~
+   - ~~Google+ Deprecation~~
+   - ~~Google Project Setup with new UI~~
+   - ~~Enabling Google OAuth API~~
+   - ~~Securing API Keys~~
+   - ~~Google Strategy Options~~
 
 ### React and Typescript
 
@@ -75,3 +75,76 @@
    - ~~Crossing Context~~
    - ~~Sandboxing an IFrame~~
    - ~~Breaking Access with Different Domains~~
+
+# Week -2(9 janurary - 15 january)
+
+## Emaily(2 hr 45 min)
+
+1. Addding MongoDB
+   - Server Structure Refactor
+   - The theory of authentication
+   - Signing In Users with Oauth
+   - Intro to mongodb
+   - MongoDB atlas setup and configuration
+   - mLab setup
+   - connecting mongoose to mongo
+   - breather and review
+   - Mongoose model classes
+   - Saving Model Instances
+   - TokenError: Bad Request
+   - Mongoose Queries
+   - Passport Callbacks
+   - Encoding Users
+   - Deserialize User
+   - Enabling Cookies
+   - Required Temporary Update for "req.session.generate is not a function"
+   - Testing Authentication
+   - Logging out User
+   - A deeper dive(optional)
+
+## Jbook(2hr 21 mins)
+
+1. Safely Handling Untrusted code execution
+
+   - Do we need separation
+   - Middle ground approach
+   - Iframes with srcDocs
+   - Execution usimg SrcDoc
+   - Running unescaped code
+   - Indirect communication between frames
+   - Passing code to the IFrame
+   - It works
+   - Highlighting Erros
+   - Issues with repeat execution
+   - Resetting the Iframe contents
+   - warning Fixup
+
+2. Displaying a code editor in a react app
+   - Issues with eager bundling
+   - Quick revert
+   - Legacy peer deps flag to avoid erros
+   - Open source editor options
+   - Displaying an editor
+   - configuring the editor
+   - crazy monaco editor type defs
+   - a few more options
+   - setting the initial value
+   - handling editor change events
+   - adding a type definition
+   - adding prettier to our editor
+   - automatic code formatting
+   - adding a css library
+   - floating the format button
+   - downgrading CRA to support dependencies
+   - fixing syntax highlighting
+   - CSS For syntax highlighting
+
+## Leetcode
+
+1.  Build Array From Permutation
+2.  Concatenation of Array
+3.  Final Value of Variable after performing operations
+4.  Running sum of 1D array
+5.  Shuffle the array
+6.  Number of Good pairs
+7.  Richest customer wealth.
